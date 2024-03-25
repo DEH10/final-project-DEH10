@@ -2,7 +2,7 @@
 
 Welcome to HelpHub, a platform designed to connect volunteers with charities in their local area. 
 
-## Pages: (Individual views)
+## Pages: (Access Individual Views)
 
 
 [![Homepage Prototype](https://img.shields.io/badge/Homepage-Wireframe-blue)](https://www.figma.com/proto/5dFnjIyI7yYJybjpdleHwv/Final-Project---Wireframe-Prototype?type=design&node-id=66-8&t=9zURgy7WWUEBuvKQ-1&scaling=scale-down&page-id=66%3A7&mode=design)
