@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/Final-Project-white" alt="Platform">
 
-Welcome to HelpHub, a platform designed to connect volunteers with charities in their local area. The colored links access individual wireframes 
+Welcome to HelpHub, a platform designed to connect volunteers with charities in their local area. 
 
 ## Pages: (individual views)
 
