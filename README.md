@@ -8,7 +8,7 @@ Welcome to HelpHub, a platform designed to connect volunteers with charities in 
 
 The homepage is the first page users will see when they visit HelpHub. It provides a brief overview of what HelpHub is and what it offers. From the homepage, users can navigate to other pages such as the Charities List Page and the Charity Profile Page.
 
-<img src="https://img.shields.io/badge/Charities-List-red" alt="Platform">
+<img src="https://img.shields.io/badge/Charities-List-darkred" alt="Platform">
 
 The Charities List Page allows volunteers to search for charities in their area. It features a list/grid view to display all the charities. There are at least 3 different charities displayed on the page. Each charity has a button that links to its Charity Profile Page.
 
