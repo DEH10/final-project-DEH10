@@ -15,7 +15,7 @@ The Charities List Page allows volunteers to search for charities in their area.
 <img src="https://img.shields.io/badge/Charity-Profile-darkgreen" alt="Platform">
 The Charity Profile Page provides detailed information about a charity when selected from the Charities List Page. It includes a "Volunteer Now" button. When clicked, it allows a user to input their contact information to express interest in volunteering.
 
-<img src="https://img.shields.io/badge/Wire-Frame-blue" alt="Platform">
+<img src="https://img.shields.io/badge/Wire-Frame-lightblue" alt="Platform">
 The wireframe for the site is created using [Draw.io & figma.com]. To test the prototype, please refer to the Wireframe- Prototype document.
 
 Click to view Final-Project-Wireframe-Prototype --> [![Wireframe Prototype](https://img.shields.io/badge/Wireframe-Prototype-gold)](https://www.figma.com/file/5dFnjIyI7yYJybjpdleHwv/Final-Project---Wireframe-Prototype?type=design&node-id=4%3A244&mode=design&t=H4LYyV3hIeWBPMFc-1)
