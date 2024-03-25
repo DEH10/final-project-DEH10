@@ -18,7 +18,7 @@ The Charity Profile Page provides detailed information about a charity when sele
 <img src="https://img.shields.io/badge/Wire-Frame-blue" alt="Platform">
 The wireframe for the site is created using [Draw.io & figma.com]. To test the prototype, please refer to the Wireframe- Prototype document.
 
-Click to view Final-Project-Wireframe-Prototype --> [![Wireframe Prototype](https://img.shields.io/badge/Wireframe-Prototype-yellow)](https://www.figma.com/file/5dFnjIyI7yYJybjpdleHwv/Final-Project---Wireframe-Prototype?type=design&node-id=4%3A244&mode=design&t=H4LYyV3hIeWBPMFc-1)
+Click to view Final-Project-Wireframe-Prototype --> [![Wireframe Prototype](https://img.shields.io/badge/Wireframe-Prototype-gold)](https://www.figma.com/file/5dFnjIyI7yYJybjpdleHwv/Final-Project---Wireframe-Prototype?type=design&node-id=4%3A244&mode=design&t=H4LYyV3hIeWBPMFc-1)
 
 
  
