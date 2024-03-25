@@ -12,7 +12,7 @@ The homepage is the first page users will see when they visit HelpHub. It provid
 
 The Charities List Page allows volunteers to search for charities in their area. It features a list/grid view to display all the charities. There are at least 3 different charities displayed on the page. Each charity has a button that links to its Charity Profile Page.
 
-<img src="https://img.shields.io/badge/Charity-Profile-green" alt="Platform">
+<img src="https://img.shields.io/badge/Charity-Profile-darkgreen" alt="Platform">
 The Charity Profile Page provides detailed information about a charity when selected from the Charities List Page. It includes a "Volunteer Now" button. When clicked, it allows a user to input their contact information to express interest in volunteering.
 
 <img src="https://img.shields.io/badge/Wire-Frame-blue" alt="Platform">
