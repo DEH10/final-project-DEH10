@@ -18,7 +18,7 @@ The Charities List Page allows volunteers to search for charities in their area.
 
 The Charity Profile Page provides detailed information about a charity when selected from the Charities List Page. It includes a "Volunteer Now" button. When clicked, it allows a user to input their contact information to express interest in volunteering.
 
-[![Volunteer Now Page Wireframe](https://img.shields.io/badge/Charity-Profile-darkorange)](https://www.figma.com/proto/5dFnjIyI7yYJybjpdleHwv/Final-Project---Wireframe-Prototype?type=design&node-id=34-13&t=30qtdXmfhOQ3XJ5s-1&scaling=contain&page-id=2%3A206&mode=design)
+[![Volunteer Now Page Wireframe](https://img.shields.io/badge/Volunteer-Now-darkorange)](https://www.figma.com/proto/5dFnjIyI7yYJybjpdleHwv/Final-Project---Wireframe-Prototype?type=design&node-id=34-13&t=30qtdXmfhOQ3XJ5s-1&scaling=contain&page-id=2%3A206&mode=design)
 
 The Volunteer Now Page follows each charity profile, enabling volunteers to input their contact information after clicking the "Volunteer Now" button. Here, users can fill out a form with their name, phone number, and email address to express their interest in volunteering and find out whats next in the process.
 
