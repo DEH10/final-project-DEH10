@@ -5,7 +5,7 @@ Welcome to HelpHub, a platform designed to connect volunteers with charities in 
 ## Pages
 
 
-[![Wireframe Prototype](https://img.shields.io/badge/Wireframe-Prototype-yellow)](https://www.figma.com/proto/5dFnjIyI7yYJybjpdleHwv/Final-Project---Wireframe-Prototype?type=design&node-id=66-8&t=9zURgy7WWUEBuvKQ-1&scaling=scale-down&page-id=66%3A7&mode=design)
+[![Wireframe Prototype](https://img.shields.io/badge/Homepage-Wireframe-blue)](https://www.figma.com/proto/5dFnjIyI7yYJybjpdleHwv/Final-Project---Wireframe-Prototype?type=design&node-id=66-8&t=9zURgy7WWUEBuvKQ-1&scaling=scale-down&page-id=66%3A7&mode=design)
 
 
 The homepage is the first page users will see when they visit HelpHub. It provides a brief overview of what HelpHub is and what it offers. From the homepage, users can navigate to other pages such as the Charities List Page and the Charity Profile Page.
