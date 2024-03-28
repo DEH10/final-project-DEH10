@@ -12,7 +12,7 @@ The Homepage is the first page users will see when they visit HelpHub. It provid
 
 Homepage 2 serves as an enriched gateway to HelpHub's ecosystem, seamlessly building upon the foundation laid by Homepage 1. While maintaining essential features such as articles, cooperative enterprise logos, and real-time user metrics, Homepage 2 expands upon user engagement with a multifaceted approach. Homepage 2 also offers intuitive navigation with prominent buttons directing users to key sections, including the Charities List Page, Investors, and Colleagues. By facilitating swift access to these vital areas, we ensure that users can explore and engage with HelpHub's diverse offerings effortlessly.
 
-[![Homepage-2 Wireframe](https://img.shields.io/badge/AboutUs-Wireframe-red)]
+[![Homepage-2 Wireframe](https://img.shields.io/badge/AboutUs-Wireframe-grey)]
 
 The "About Us" page of HelpHub provides a comprehensive overview of the organization's mission, values, and the dedicated team driving their vision forward.
 
