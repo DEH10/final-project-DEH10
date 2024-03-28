@@ -8,7 +8,7 @@ Welcome to HelpHub, a platform designed to connect volunteers with charities in 
 
 The Homepage is the first page users will see when they visit HelpHub. It provides a brief overview of what HelpHub is and what it offers. From the homepage, users can navigate to other pages for users to donate, support or contribute to HelpHub movement.
 
-[![Homepage-2 Wireframe](https://img.shields.io/badge/Homepage2-Wireframe-red)]
+[![Homepage-2 Wireframe](https://img.shields.io/badge/Homepage2-Wireframe-darkred)]
 
 Homepage 2 serves as an enriched gateway to HelpHub's ecosystem, seamlessly building upon the foundation laid by Homepage 1. While maintaining essential features such as articles, cooperative enterprise logos, and real-time user metrics, Homepage 2 expands upon user engagement with a multifaceted approach. Homepage 2 also offers intuitive navigation with prominent buttons directing users to key sections, including the Charities List Page, Investors, and Colleagues. By facilitating swift access to these vital areas, we ensure that users can explore and engage with HelpHub's diverse offerings effortlessly.
 
