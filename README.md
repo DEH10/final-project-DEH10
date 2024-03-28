@@ -35,4 +35,4 @@ Wireframe by Wireframe Link Below:
 
 Wireframe Prototype:
 
-[![Homepage Wireframe](https://img.shields.io/badge/Homepage-Wireframe-gold)](https://www.figma.com/proto/4ZE2L6zqNLofAnNcq3xzSz/index?type=design&node-id=2-24&t=kFLnMOVHTBfh27dg-1&scaling=scale-down&page-id=2%3A12&starting-point-node-id=2%3A19&mode=design)
+[![Homepage Wireframe](https://img.shields.io/badge/Homepage-Wireframe-gold)](https://www.figma.com/proto/4ZE2L6zqNLofAnNcq3xzSz/index?type=design&node-id=2-19&t=kFLnMOVHTBfh27dg-1&scaling=scale-down&page-id=2%3A12&starting-point-node-id=2%3A19&mode=design)
