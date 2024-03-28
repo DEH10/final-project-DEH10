@@ -33,3 +33,4 @@ New Website Wireframe:
 [![Homepage Wireframe](https://img.shields.io/badge/Homepage-Wireframe-red)](https://mockitt.wondershare.com/proto/UDEeyphhsb0h8aA8pPkDtg/sharing?view_mode=device&screen=rbpTb0FDBp9zRlk3j&canvasId=pe2ijaysTb0FFrGc31oknK#Product)
 
 
+[![Homepage Wireframe](https://img.shields.io/badge/Homepage-Wireframe-gold)](https://mockitt.wondershare.com/proto/UDEeyphhsb0h8aA8pPkDtg/sharing?view_mode=device&screen=rbpTb0FDBp9zRlk3j&canvasId=pe2ijaysTb0FFrGc31oknK)
