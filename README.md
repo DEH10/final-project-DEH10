@@ -29,9 +29,6 @@ Volunteer-Now-Wireframe:
 The Volunteer Now Page follows each charity profile, enabling volunteers to input their contact information after clicking the "Volunteer Now" button. Here, users can fill out a form with their name, phone number, and email address to express their interest in volunteering and find out whats next in the process.
 
 
-Interactive Wireframe Prototype (Clickable buttons):
+Interactive Wireframe Prototype Presentation (Clickable buttons (e.g. Homepage, AboutUs, Charities List Nav, Charity Profile Nav, Volunteer Now button.. etc):
 
-[![Homepage Wireframe](https://img.shields.io/badge/Homepage-Wireframe-gold)](https://mockitt.wondershare.com/proto/KL4glsqisb0h8abrjoBnPt/sharing?view_mode=device&screen=rbpU8Kle1LgqQFc3J&canvasId=rcU8Kle1TpAyPOKL)
-
-
-[![Homepage Wireframe](https://img.shields.io/badge/Homepage-Wireframe-red)](https://mockitt.wondershare.com/proto/KL4glsqisb0h8abrjoBnPt/sharing?view_mode=device&screen=rbpU8RBx6nPpjis7j&canvasId=rcU8RBx6sxslAcgI)
+[![Homepage Wireframe](https://img.shields.io/badge/Homepage-Wireframe-gold)](https://mockitt.wondershare.com/proto/KL4glsqisb0h8abrjoBnPt/sharing?view_mode=device&screen=rbpU8RBx6nPpjis7j&canvasId=rcU8RBx6sxslAcgI)
