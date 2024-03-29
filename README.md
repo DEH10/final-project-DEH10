@@ -32,3 +32,6 @@ The Volunteer Now Page follows each charity profile, enabling volunteers to inpu
 Interactive Wireframe Prototype (Clickable buttons):
 
 [![Homepage Wireframe](https://img.shields.io/badge/Homepage-Wireframe-gold)](https://mockitt.wondershare.com/proto/KL4glsqisb0h8abrjoBnPt/sharing?view_mode=device&screen=rbpU8Kle1LgqQFc3J&canvasId=rcU8Kle1TpAyPOKL)
+
+
+[![Homepage Wireframe](https://img.shields.io/badge/Homepage-Wireframe-red)](https://mockitt.wondershare.com/proto/KL4glsqisb0h8abrjoBnPt/sharing?view_mode=device&screen=rbpU8RBx6nPpjis7j&canvasId=rcU8RBx6sxslAcgI)
