@@ -4,11 +4,11 @@ Welcome to HelpHub, a platform designed to connect volunteers with charities in 
 
 ## Project Pages: 
 
-Homepage-1-Wireframe
+Home-1(index.html)-Wireframe
 
 The Homepage is the first page users will see when they visit HelpHub. It provides a brief overview of what HelpHub is and what it offers. From the homepage, users can navigate to other pages for users to donate, support or contribute to HelpHub movement.
 
-Homepage-2-Wireframe:
+Home-2-Wireframe:
 
 Homepage 2 serves as an enriched gateway to HelpHub's ecosystem, seamlessly building upon the foundation laid by Homepage 1. While maintaining essential features such as articles, cooperative enterprise logos, and real-time user metrics, Homepage 2 expands upon user engagement with a multifaceted approach. Homepage 2 also offers intuitive navigation with prominent buttons directing users to key sections, including the Charities List Page, Investors, and Colleagues. By facilitating swift access to these vital areas, we ensure that users can explore and engage with HelpHub's diverse offerings effortlessly.
 
@@ -28,10 +28,6 @@ Volunteer-Now-Wireframe:
 
 The Volunteer Now Page follows each charity profile, enabling volunteers to input their contact information after clicking the "Volunteer Now" button. Here, users can fill out a form with their name, phone number, and email address to express their interest in volunteering and find out whats next in the process.
 
-
-Interactive Wireframe Prototype Presentation (Clickable buttons (e.g. Homepage, AboutUs, Charities List Nav, Charity Profile Nav, Volunteer Now button.. etc):
-
-[![Homepage Wireframe](https://img.shields.io/badge/Homepage-Wireframe-gold)](https://mockitt.wondershare.com/proto/KL4glsqisb0h8abrjoBnPt/sharing?view_mode=device&screen=rbpU8RBx6nPpjis7j&canvasId=rcU8RBx6sxslAcgI)
-
+Final - Project Wireframe slideshow 
 
 [![Homepage Wireframe](https://img.shields.io/badge/Homepage-Wireframe-gold)](https://www.figma.com/proto/4ZE2L6zqNLofAnNcq3xzSz/index?type=design&node-id=2-19&t=bAuVHjp6OxUw2jg1-1&scaling=scale-down&page-id=2%3A12&starting-point-node-id=2%3A19&mode=design)
